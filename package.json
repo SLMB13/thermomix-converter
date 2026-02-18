@@ -1,0 +1,8 @@
+{
+  "name": "thermomix-converter",
+  "version": "1.0.0",
+  "description": "Thermomix Recipe Converter with FREE Gemini API",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
